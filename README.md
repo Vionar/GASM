@@ -5,7 +5,7 @@ Version: tm-0.1
 
 Works **only on Linux**
 
-# What it is?
+# What is it?
 GASM is GUI Apache2 server manager. It helps you work with apache2. It has low functional now, but soon it will grow up.
 
 You can already now:
